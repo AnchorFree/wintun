@@ -1,6 +1,7 @@
 {
 	"repo_name": "win-wintun",
 	"github_org": "AnchorFree",
+	"environment": ["production"],
 	"jira_project": "AWIN",
 	"jira_domain": "https://intxprivacynow.atlassian.net/",
 	"jira_issue_type": "Story",
